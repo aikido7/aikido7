@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikido7&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aikido7&theme=cobalt&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikido7&layout=compact&count_private=true&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=aikido7&count_private=true&show_icons=true&show_icons=true&theme=cobalt" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aikido7&theme=cobalt&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=aikido7&theme=cobalt&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+
